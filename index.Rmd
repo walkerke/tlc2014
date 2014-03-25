@@ -84,7 +84,7 @@ font-size: 100% !important;
 
 ## Timelines with Timeline.js
 
-<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0Agq3vcAUXm8WdDg2WVZFUmlDQmxjRm9XaWJjU3BjMXc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='800' frameborder='0'></iframe>
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0Agq3vcAUXm8WdDg2WVZFUmlDQmxjRm9XaWJjU3BjMXc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='600px' frameborder='0'></iframe>
 
 ---
 

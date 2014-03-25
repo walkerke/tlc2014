@@ -106,7 +106,7 @@ font-size: 100% !important;
 
 ## Cautions when using visualization
 
-<img src=assets/img/charts.png style="width: 650px">
+<img src=https://raw.githubusercontent.com/walkerke/tlc2014/gh-pages/assets/img/charts.PNG style="width: 650px">
 
 <span class="footnote">Source: [Noah Smith via Twitter](http://t.co/ZoQ0LZhFa0)</span>
 

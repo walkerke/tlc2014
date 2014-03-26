@@ -66,7 +66,7 @@ font-size: 100% !important;
 ## Spring 2014: World Regional Geography
 
 * How to incorporate interactive visualization in a larger course?
-* Intro to geography: [election map of the US](http://www.arcgis.com/home/webmap/viewer.html?webmap=87bb88214d2944bbbf1d9d9255c812ca)
+* Introduction to geography: [election map of the US](http://www.arcgis.com/home/webmap/viewer.html?webmap=87bb88214d2944bbbf1d9d9255c812ca)
 
 ---
 

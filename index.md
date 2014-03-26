@@ -106,9 +106,9 @@ font-size: 100% !important;
 
 ## Cautions when using visualization
 
-<img src=https://raw.githubusercontent.com/walkerke/tlc2014/gh-pages/assets/img/charts.PNG style="width: 650px">
+<img src=http://wbbw1.bwbx.io/cms/2011-11-30/etc_correlation50__01__960.jpg style="width: 465px">
 
-<span class="footnote">Source: [Noah Smith via Twitter](http://t.co/ZoQ0LZhFa0)</span>
+<span class="footnote">Source: [Bloomberg BusinessWeek](http://t.co/ZoQ0LZhFa0http://www.businessweek.com/magazine/correlation-or-causation-12012011-gfx.html)</span>
 
 ---
 

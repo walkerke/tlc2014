@@ -91,7 +91,7 @@ font-size: 100% !important;
 ## Interactive visualization by students
 
 * Major assignments: students create interactive ArcGIS.com maps
-* Examples: Population change in Texas; [economic inequality in Mexico](http://bit.ly/1gywyeP); aging in Europe
+* Examples: Population change in Texas; [economic inequality in Mexico](http://bit.ly/NRNnFj); aging in Europe
 
 ---
 
@@ -114,12 +114,12 @@ font-size: 100% !important;
 
 ## Data visualization resources
 
+* [Data for demonstrations available here](https://raw.githubusercontent.com/walkerke/tlc2014/gh-pages/data/mega.csv)
 * Freely available tools: 
  * [MapBox](http://www.mapbox.com)
  * [CartoDB](http://cartodb.com)
  * [Tableau Public](http://www.tableausoftware.com/public/)
  * [plotly](http://plot.ly)
-
 * Demos: 
  * [ArcGIS Online](http://www.arcgis.com)
  * [Timeline.js](http://timeline.knightlab.com/)

@@ -72,13 +72,13 @@ font-size: 100% !important;
 
 ## Example: US demographic change
 
-<iframe src="https://dl.dropbox.com/s/ka2xiwy9s9bjtza/chart1.html" width="825" height="500" seamless></iframe>
+<iframe src="http://dl.dropbox.com/s/ka2xiwy9s9bjtza/chart1.html" width="825" height="500" seamless></iframe>
 
 ---
 
 ## Example: fertility rates in Europe
 
-<iframe src="https://dl.dropbox.com/s/atqfmcybgl1rk5n/tfrplot.html" width="825" height="500" seamless></iframe>
+<iframe src="http://dl.dropbox.com/s/atqfmcybgl1rk5n/tfrplot.html" width="825" height="500" seamless></iframe>
 
 ---
 
